@@ -1,0 +1,16 @@
+[
+{"employment": "Total in employment", "count": 30987},
+{"employment": "Female employees", "count": 13780},
+{"employment": "Male employees", "count": 14191},
+{"employment": "Total employees", "count": 27971},
+{"employment": "Female self-employees", "count": 771},
+{"employment": "Male self-employees", "count": 2245},
+{"employment": "Total self-employees", "count": 3016},
+
+
+{"employment": "Wholly unemployed", "count": 497},
+{"employment": "Total registered unemployed", "count": 974},
+
+
+{"employment": "Employers", "count": 2114}
+]

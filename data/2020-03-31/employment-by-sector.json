@@ -1,0 +1,33 @@
+[
+{"employment": "Agriculture, Horticulture, Fishing and Quarrying", "count": 435},
+{"employment": "Manufacturing", "count": 651},
+{"employment": "Electricity, gas, steam and air conditioning supply ", "count": 286},
+{"employment": "Water supply, sewerage, waste management and remediation activities", "count": 129},
+{"employment": "Construction", "count": 2787},
+{"employment": "Wholesale, retail and repairs", "count": 3791},
+{"employment": "Hostelry", "count": 1819},
+{"employment": "Transport and storage", "count": 1148},
+{"employment": "Information and communication ", "count": 886},
+{"employment": "Finance", "count": 6031},
+{"employment": "Real estate activities ", "count": 296},
+{"employment": "Professional, business, scientific and technical activities ", "count": 2921},
+{"employment": "Administrative and support service activities", "count": 1718},
+{"employment": "Public administration", "count": 5573},
+{"employment": "Education ", "count": 633},
+{"employment": "Human health, social and charitable work activities", "count": 2063},
+{"employment": "Arts, entertainment and recreation", "count": 349},
+{"employment": "Other service activities", "count": 478},
+{"employment": "Activities of households as employers; undifferentiated goods and services producing activities of households for own use", "count": 79},
+{"employment": "Other ", "count": 0},
+{"employment": "Total", "count": 32073},
+
+
+
+
+
+{"employment": "Banking", "count": 1702},
+{"employment": "Fiducuary", "count": 1748},
+{"employment": "Funds", "count": 1303},
+{"employment": "Insurance", "count": 760},
+{"employment": "Other", "count": 518}
+]

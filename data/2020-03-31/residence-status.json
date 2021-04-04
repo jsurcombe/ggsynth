@@ -1,0 +1,26 @@
+[
+  {
+    "residenceStatua": "Employment related",
+    "count": 2969
+  },
+  {
+    "residenceStatua": "Non-employment related or Established Resident",
+    "count": 890
+  },
+  {
+    "residenceStatua": "Family",
+    "count": 2741
+  },
+  {
+    "residenceStatua": "Open Market",
+    "count": 2035
+  },
+  {
+    "residenceStatua": "Permanent Resident",
+    "count": 38032
+  },
+  {
+    "residenceStatua": "No document",
+    "count": 16488
+  }
+]

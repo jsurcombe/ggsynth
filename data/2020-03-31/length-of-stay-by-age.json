@@ -1,0 +1,486 @@
+[
+  {
+    "age": "0-4",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 584
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 2224
+      }
+    ]
+  },
+  {
+    "age": "5-9",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 62
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 277
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 2935
+      }
+    ]
+  },
+  {
+    "age": "10-14",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 50
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 200
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 237
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 2774
+      }
+    ]
+  },
+  {
+    "age": "15-19",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 109
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 128
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 136
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 219
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 2607
+      }
+    ]
+  },
+  {
+    "age": "20-24",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 256
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 350
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 113
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 127
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 138
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 2631
+      }
+    ]
+  },
+  {
+    "age": "25-29",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 301
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 594
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 223
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 96
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 83
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 2615
+      }
+    ]
+  },
+  {
+    "age": "30-34",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 217
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 592
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 374
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 249
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 102
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 2490
+      }
+    ]
+  },
+  {
+    "age": "35-39",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 169
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 374
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 375
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 368
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count":264
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 2400
+      }
+    ]
+  },
+  {
+    "age": "40-44",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 132
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 324
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 328
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 355
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 348
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 2341
+      }
+    ]
+  },
+  {
+    "age": "45-49",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 152
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 306
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 271
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 358
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 386
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 3074
+      }
+    ]
+  },
+  {
+    "age": "50-54",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 126
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 304
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 253
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 317
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 378
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 3586
+      }
+    ]
+  },
+  {
+    "age": "55-59",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 101
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 240
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 181
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 243
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 303
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 3789
+      }
+    ]
+  },
+  {
+    "age": "60-64",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 42
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 142
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 111
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 160
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 209
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 3465
+      }
+    ]
+  },
+  {
+    "age": "65-69",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 23
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 61
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 71
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 78
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 113
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 3134
+      }
+    ]
+  },
+  {
+    "age": "70-74",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 14
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 32
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 60
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 76
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 86
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 3230
+      }
+    ]
+  },
+  {
+    "age": "75-79",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 9
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 28
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 29
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 53
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 58
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 2047
+      }
+    ]
+  },
+  {
+    "age": "80-84",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 10 years",
+        "count": 36
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 25
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 33
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 1749
+      }
+    ]
+  },
+  {
+    "age": "85-89",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 20 years",
+        "count": 45
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 1031
+      }
+    ]
+  },
+  {
+    "age": "90-94",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 20 years",
+        "count": 36
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 474
+      }
+    ]
+  },
+  {
+    "age": "95+",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 20 years",
+        "count": 8
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 148
+      }
+    ]
+  }
+]

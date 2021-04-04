@@ -1,0 +1,234 @@
+[
+  {
+    "countryOfBirth": "Guernsey",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 399
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 1349
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 165
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 2286
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 2773
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 26558
+      }
+    ]
+  },
+  {
+    "countryOfBirth": "Other Crown Dependencies",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 11
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 26
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 19
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 27
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 28
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 317
+      }
+    ]
+  },
+  {
+    "countryOfBirth": "United Kingdom and Republic of Ireland",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 561
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 1471
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 1275
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 1464
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 1517
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 8762
+      }
+    ]
+  },
+  {
+    "countryOfBirth": "Portugal",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 122
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 313
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 213
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 185
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 139
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 414
+      }
+    ]
+  },
+  {
+    "countryOfBirth": "Latvia",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 119
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 225
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 225
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 227
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 144
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 21
+      }
+    ]
+  },
+  {
+    "countryOfBirth": "Other Europe",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 251
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 441
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 276
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 229
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 122
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 473
+      }
+    ]
+  },
+  {
+    "countryOfBirth": "Rest of world",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 373
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 791
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 389
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 342
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 263
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 568
+      }
+    ]
+  },
+  {
+    "countryOfBirth": "",
+    "lengthsOfStay": [
+      {
+        "lengthOfStay": "Less than 1 year",
+        "count": 517
+      },
+      {
+        "lengthOfStay": "1 to less than 5 years",
+        "count": 1587
+      },
+      {
+        "lengthOfStay": "5 to less than 10 years",
+        "count": 3175
+      },
+      {
+        "lengthOfStay": "10 to less than 15 years",
+        "count": 757
+      },
+      {
+        "lengthOfStay": "15 to less than 20 years",
+        "count": 155
+      },
+      {
+        "lengthOfStay": "Over 20 years",
+        "count": 1091
+      }
+    ]
+  }
+]
